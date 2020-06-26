@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mahmut Bakacak"
+title                    : "Mahmut Ulutas"
 title_separator          : "-"
 name                     : &name "Mahmut"
 description              : &description "Electrical and Electronics Engineering Student"
@@ -40,7 +40,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "md5"
+    email                : "mhmtulutas1@gmail.com"
   generatedFields:
     date:
       type               : "date"
