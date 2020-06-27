@@ -12,10 +12,10 @@ main:
   #- title: "Portfolio"
   # url: /portfolio/
         
-  - title: "Blog Posts"
+  - title: "Travels/geziler"
     url: /year-archive/
     
-  - title: "CV"
+  - title: "Career/Kariyer"
     url: /cv/
     
   #- title: "Guide"
